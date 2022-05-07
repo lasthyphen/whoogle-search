@@ -79,7 +79,7 @@ app.config['BANG_FILE'] = os.path.join(
 
 # Config fields that are used to check for updates
 app.config['RELEASES_URL'] = 'https://github.com/' \
-                             'benbusby/whoogle-search/releases'
+                             'lasthyphen/whoogle-search/releases'
 app.config['LAST_UPDATE_CHECK'] = datetime.now() - timedelta(hours=24)
 app.config['HAS_UPDATE'] = ''
 
