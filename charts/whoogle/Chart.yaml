@@ -1,16 +1,16 @@
 apiVersion: v2
-name: whoogle
+name: dijetssearch
 description: A self hosted search engine on Kubernetes
 type: application
 version: 0.1.0
 appVersion: 0.7.2
 
-icon: https://github.com/benbusby/whoogle-search/raw/main/app/static/img/favicon/favicon-96x96.png
+icon: https://github.com/lasthyphen/whoogle-search/raw/main/app/static/img/favicon/favicon-96x96.png
 
 sources:
-  - https://github.com/benbusby/whoogle-search
-  - https://gitlab.com/benbusby/whoogle-search
-  - https://gogs.benbusby.com/benbusby/whoogle-search
+  - https://github.com/lasthyphen/whoogle-search
+  - https://gitlab.com/lasthyphen/whoogle-search
+  - https://gogs.benbusby.com/lasthyphen/whoogle-search
 
 keywords:
   - whoogle
